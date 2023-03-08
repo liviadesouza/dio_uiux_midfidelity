@@ -14,4 +14,4 @@ O projeto consiste na criação de um wireframe em média fidelidade aplicando o
 
 ## 📂 Acesso ao Projeto
 
-[🔗 Link do Projeto no Figma](https://link-url-here.org)
+[🔗 Link do Projeto no Figma](https://www.figma.com/proto/toouWtpmVCjXSsRe0Qpcm3/Wireframe-%7C-Dio.me?page-id=0%3A1&node-id=0-1&viewport=537%2C382%2C0.56&scaling=scale-down)
